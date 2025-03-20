@@ -15,33 +15,6 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 - **Database**: SQLite / MySQL (as needed)
 - **Version Control**: Git & GitHub
 
-## 📌 Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd portfolio-site
-   ```
-3. Create a virtual environment and activate it:
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows use `env\Scripts\activate`
-   ```
-4. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-5. Run the development server:
-   ```bash
-   python manage.py runserver
-   ```
-6. Open the browser and visit:
-   ```
-   http://127.0.0.1:8000/
-   ```
-
 ## 📬 Contact
 If you have any questions or suggestions, feel free to reach out!
 - **Email**: layebhossain849@email.com
